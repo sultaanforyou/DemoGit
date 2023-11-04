@@ -14,6 +14,12 @@ public class example2 {
 	public void check1()
 	{
 		System.out.println("testing frame work");
+		System.out.println("india");
+		System.out.println("pakistan");
+		System.out.println("south africa");
+		System.out.println("sri lanka");
+		
+		
 	}
 	
 }
